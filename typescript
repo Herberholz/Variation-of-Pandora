@@ -1,0 +1,113 @@
+Script started on Fri 22 May 2015 05:38:19 PM PDT
+cherber2@ada:~/CS202/Program3$ !valgrind
+valgrind ./a.out -v --leak-check=full 
+==2557== Memcheck, a memory error detector
+==2557== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==2557== Using Valgrind-3.10.0.SVN and LibVEX; rerun with -h for copyright info
+==2557== Command: ./a.out -v --leak-check=full
+==2557== 
+
+Welcome to CSPandora!
+
+Papa Roach
+Maroon 5
+Garth Brooks
+Frank Turner
+Francesca Battistelli
+Kurt Schneider
+Phil Collins
+Akon
+Malea
+Flying Lotus
+Lea Salonga/Brad Kane
+
+
+|----------Main Menu----------|
+1) Play Favorite Station (Not Working)
+2) Search for new Artist/Genre
+3) Quit
+
+Please pick a number: 2
+
+
+|--------Search Menu--------|
+1) Search Artist 
+2) Search Genre (Not Working) 
+3) Return to Main Menu 
+
+Please pick a number: 1
+Please enter in the artist you would like to search for: 
+Maroon 5
+Are you sure?
+yes
+
+Song: 
+Sugar
+
+Artist: Maroon 5
+
+Genre: Pop
+,Dance
+
+ _____________
+|1)Like   :)  |
+|2)Unlike :(  |
+|-------------|
+Enter Selection: 
+1
+
+
+|--------Search Menu--------|
+1) Search Artist 
+2) Search Genre (Not Working) 
+3) Return to Main Menu 
+
+Please pick a number: 1
+Please enter in the artist you would like to search for: 
+Akon
+Are you sure?
+yes
+
+Song: 
+Lonely
+
+Artist: Akon
+
+Genre: Hip Hop
+,Soundtrack
+
+ _____________
+|1)Like   :)  |
+|2)Unlike :(  |
+|-------------|
+Enter Selection: 
+2
+
+
+|--------Search Menu--------|
+1) Search Artist 
+2) Search Genre (Not Working) 
+3) Return to Main Menu 
+
+Please pick a number: 3
+
+
+|----------Main Menu----------|
+1) Play Favorite Station (Not Working)
+2) Search for new Artist/Genre
+3) Quit
+
+Please pick a number: 3
+Goodbye!
+==2557== 
+==2557== HEAP SUMMARY:
+==2557==     in use at exit: 0 bytes in 0 blocks
+==2557==   total heap usage: 409 allocs, 409 frees, 23,139 bytes allocated
+==2557== 
+==2557== All heap blocks were freed -- no leaks are possible
+==2557== 
+==2557== For counts of detected and suppressed errors, rerun with: -v
+==2557== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+cherber2@ada:~/CS202/Program3$ exit
+
+Script done on Fri 22 May 2015 05:39:24 PM PDT

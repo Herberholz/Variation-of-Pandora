@@ -1,11 +1,12 @@
-Last Resort;Papa Roach;Rock
-Sugar;Maroon 5;Pop
-The Thunder Rolls;Garth Brooks;Country
-Plain Sailing Weather;Frank Turner;Alternative
-You're Here;Francesca Battistelli;Seasonal
-A Thousand Years;Kurt Schneider;Instrumental
-You'll Be In My Heart;Phil Collins;Soundtrack
-A Whole New World;Lea Salonga/Brad Kane;Soundtrack
-One Hot Mess;Malea;Dance
-Glendale Galleria;Flying Lotus;Dubstep
-Lonely;Akon;Hip Hop
+Last Resort;Papa Roach;Rock;Alternative;
+Sugar;Maroon 5;Pop;Dance;
+The Thunder Rolls;Garth Brooks;Country;Soundtrack;
+Plain Sailing Weather;Frank Turner;Alternative;Rock;
+You're Here;Francesca Battistelli;Seasonal;Instrumental;
+A Thousand Years;Kurt Schneider;Instrumental;Pop;
+You'll Be In My Heart;Phil Collins;Soundtrack;Instrumental;
+Lonely;Akon;Hip Hop;Soundtrack;
+One Hot Mess;Malea;Dance;Pop;
+Glendale Galleria;Flying Lotus;Dubstep;Soundtrack;
+A Whole New World;Lea Salonga/Brad Kane;Soundtrack;Instrumental;
+
